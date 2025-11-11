@@ -14,11 +14,15 @@ Fork (detached) of the must-have [directory-tree](https://www.npmjs.com/package/
 
 ## Install
 
-```bash
-npm i -g https://github.com/hh-lohmann/directory-tree
-```
   * `-g` ("global") for direct usage as [cli](#available-options) (real installation instead of `npx`)
-
+  * from npm
+    ```bash
+    npm i -g @baliky/directory-tree
+    ```
+  * from GitHub
+    ```bash
+    npm i -g https://github.com/hh-lohmann/direvctory-tree
+    ```
 
 ---
 
