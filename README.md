@@ -2,7 +2,10 @@
 
 ## README This repo (fork)
 
-Fork of the must-have [directory-tree](https://www.npmjs.com/package/directory-tree) (GitHub [node-directory-tree](https://github.com/mihneadb/node-directory-tree)), differing only in that `path` output property is optional (i.e. available via `--attribute`).
+Fork of the must-have [directory-tree](https://www.npmjs.com/package/directory-tree) (GitHub [node-directory-tree](https://github.com/mihneadb/node-directory-tree)), differing only in
+  * `path` output property is optional (i.e. available via `--attributes`)
+  * `--attributes extension` also possible for directories
+  * optional `--attributes` properties are listed in the output before possible properties of subdirectories
 
 
 ## README of fork source
