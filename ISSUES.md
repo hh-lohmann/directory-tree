@@ -21,3 +21,7 @@
 ##### IDEA potential performance improvement: only stat when required
 * i.e. without (certain) attributes "stat" should be unnecessary
 * for large dirs
+
+## 25kbn03
+##### IDEA add existing "extensions" filter to cli
+* rather a service than a necessity
