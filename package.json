@@ -11,7 +11,7 @@
     "author": "Mihnea Dobrescu-Balaur",
     "license": "MIT"
   },
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Directory content tree as JSON",
   "repository": {
     "type": "git",
