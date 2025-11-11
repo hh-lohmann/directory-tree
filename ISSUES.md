@@ -16,6 +16,6 @@
 * currently `case 'extension': break;`
 
 ## 25kbn02
-##### IDEA potentila performance improvement: only stat when required
+##### IDEA potential performance improvement: only stat when required
 * i.e. without (certain) attributes "stat" should be unnecessary
 * for large dirs
