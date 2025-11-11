@@ -17,6 +17,9 @@
 * DONE copying action from files part
 * DONE lifting up "ext" handling to apply for both files and dirs
 
+## 25kbq02
+##### DONE package.json: name: "@hh.lohmann/"
+
 ## 25kbn02
 ##### IDEA potential performance improvement: only stat when required
 * i.e. without (certain) attributes "stat" should be unnecessary

@@ -1,5 +1,5 @@
 {
-  "name": "directory-tree",
+  "name": "@hh-lohmann/directory-tree",
   "fork-of": {
     "name": "directory-tree",
     "version": "3.5.2",
