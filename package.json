@@ -1,9 +1,5 @@
 {
   "name": "directory-tree",
-<<<<<<< HEAD
-  "version": "3.5.2",
-  "description": "Convert a directory tree to a JS object.",
-=======
   "fork-of": {
     "name": "directory-tree",
     "version": "3.5.2",
@@ -17,22 +13,22 @@
   },
   "version": "1.0.0",
   "description": "Directory content tree as JSON",
->>>>>>> ffd17f2 (1.0.0)
   "repository": {
     "type": "git",
-    "url": "https://github.com/mihneadb/node-directory-tree"
+    "url": "to-come"
   },
   "keywords": [
     "directory",
     "tree"
   ],
   "main": "lib/directory-tree.js",
-  "author": "Mihnea Dobrescu-Balaur",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mihneadb/node-directory-tree/issues"
+  "author": {
+    "email": "hh.lohmann@gmail.com",
+    "name": "hh.lohmann",
+    "url": "https://hh-lohmann.github.io"
   },
-  "homepage": "https://github.com/mihneadb/node-directory-tree",
+  "license": "MIT",
+  "homepage": "to-come",
   "dependencies": {
     "command-line-args": "^5.2.0",
     "command-line-usage": "^6.1.1"

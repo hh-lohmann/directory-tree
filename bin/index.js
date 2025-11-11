@@ -35,7 +35,7 @@ const optionList = [
     {
         name: 'attributes',
         type: String,
-        description: 'ℹ️ Grab file attributes. Example: --attributes size,type,extension. Usage of size attribute with depth option is prohibited'
+        description: 'ℹ️ Grab file attributes. Example: --attributes path,size,type,extension. Usage of size attribute with depth option is prohibited'
     },
     {
         name: 'pretty',
