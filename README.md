@@ -1,5 +1,12 @@
 # directory-tree
 
+## README This repo (fork)
+
+Fork of the must-have [directory-tree](https://www.npmjs.com/package/directory-tree) (GitHub [node-directory-tree](https://github.com/mihneadb/node-directory-tree)), differing only in that `path` property is optional (i.e. available via `--attribute`).
+
+
+## README of fork source
+
 Creates a JavaScript object representing a directory tree.
 
 This library gets [~100k downloads per week](http://npm-stats.org/#/directory-tree). If you find it useful, feel free to <a href="https://www.buymeacoffee.com/pxhxnsxsbn"><img height="40" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" /></a> .
