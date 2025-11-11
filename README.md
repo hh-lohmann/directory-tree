@@ -4,7 +4,7 @@
 
 # README This repo (fork)
 
-Fork of the must-have [directory-tree](https://www.npmjs.com/package/directory-tree) (GitHub [node-directory-tree](https://github.com/mihneadb/node-directory-tree)) / see [below](#readme-of-forked-source)
+Fork (detached) of the must-have [directory-tree](https://www.npmjs.com/package/directory-tree) (GitHub [node-directory-tree](https://github.com/mihneadb/node-directory-tree)) / see [below](#readme-of-forked-source)
 
 ## Differences
 
