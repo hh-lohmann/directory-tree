@@ -6,7 +6,7 @@
 * "path" is always given by the resulting JSON's `children` "path"
 
 ## 25kbk36
-##### TODO output property order: "attributes" before "children"
+##### DONE output property order: "attributes" before "children"
 * current "children" before "attributes" lists parent's "attributes" after propably extensive details on children
 * no impact for programmatic consumption of JSON output, but for quick human insight
 * especially after +#25kbk35 making "path" an optional "attribute"
