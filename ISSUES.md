@@ -12,8 +12,10 @@
 * especially after +#25kbk35 making "path" an optional "attribute"
 
 ## 25kbn01
-##### TODO "extension" property also for dirs
+##### DONE "extension" property also for dirs
 * currently `case 'extension': break;`
+* DONE copying action from files part
+* DONE lifting up "ext" handling to apply for both files and dirs
 
 ## 25kbn02
 ##### IDEA potential performance improvement: only stat when required
