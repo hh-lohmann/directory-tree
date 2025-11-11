@@ -1,14 +1,28 @@
 # directory-tree
 
-## README This repo (fork)
+---
 
-Fork of the must-have [directory-tree](https://www.npmjs.com/package/directory-tree) (GitHub [node-directory-tree](https://github.com/mihneadb/node-directory-tree)), differing only in
+# README This repo (fork)
+
+Fork of the must-have [directory-tree](https://www.npmjs.com/package/directory-tree) (GitHub [node-directory-tree](https://github.com/mihneadb/node-directory-tree)) / see [below](#readme-of-forked-source)
+
+## Differences
+
   * `path` output property is optional (i.e. available via `--attributes`)
   * `--attributes extension` also possible for directories
   * optional `--attributes` properties are listed in the output before possible properties of subdirectories
 
+## Install
 
-## README of fork source
+```bash
+npm i -g https://github.com/hh-lohmann/directory-tree
+```
+  * `-g` ("global") for direct usage as [cli](#available-options) (real installation instead of `npx`)
+
+
+---
+
+## README of forked source
 
 Creates a JavaScript object representing a directory tree.
 
