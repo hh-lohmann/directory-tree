@@ -18,7 +18,14 @@
 * DONE lifting up "ext" handling to apply for both files and dirs
 
 ## 25kbq02
-##### DONE package.json: name: "@hh.lohmann/"
+##### FAIL package.json: name: "@hh.lohmann/"
+* DONE mislead by some docs, but "npm publish" states it clearly: Scopes (still) only for money or for organisations
+* next try: +#25kbq03 as organisation
+
+## 25kbq03
+##### DONE package.json: name: "@baliky/" (organisation)
+* "baliky" = Organisation, scoped publishing should be for free
+  * other than +#25kbq02 for individuals
 
 ## 25kbn02
 ##### IDEA potential performance improvement: only stat when required
